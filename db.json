@@ -125,7 +125,49 @@
                 }
             }
         ]
-    }
+    },
+    {
+      "id": 7,
+      "sku": "1492",
+      "title": "Digestion",
+      "description": "A description",
+      "long_description": "",
+      "wholesale_price": "155.00",
+      "retail_price": "155.00",
+      "image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
+      "thumbnail_image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
+      "sequence": 10,
+      "categories": [
+          {
+              "site_category_id": 10,
+              "site_category": {
+                  "name": "Mirror Park",
+                  "sequence": 0
+              }
+          }
+      ]
+  },
+  {
+      "id": 8,
+      "sku": "1492",
+      "title": "Digestion",
+      "description": "A description",
+      "long_description": "",
+      "wholesale_price": "155.00",
+      "retail_price": "155.00",
+      "image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
+      "thumbnail_image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
+      "sequence": 10,
+      "categories": [
+          {
+              "site_category_id": 10,
+              "site_category": {
+                  "name": "Mirror Park",
+                  "sequence": 0
+              }
+          }
+      ]
+  },
   ],
 
 
