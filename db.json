@@ -1,0 +1,139 @@
+{
+  "sites": [
+      {
+          "id": 1,
+          "sku": "1776",
+          "title": "Freedome",
+          "description": "A great home close to the beach and flood surges. So close you will have a front row seat to all the wonder nature has to offer.",
+          "long_description": "",
+          "wholesale_price": "$100,000.00",
+          "retail_price": "155.00",
+          "image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
+          "thumbnail_image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
+          "sequence": 10,
+          "categories": [
+              {
+                  "site_category_id": 10,
+                  "site_category": {
+                      "name": "Beach",
+                      "sequence": 0
+                  }
+              }
+          ]
+      },
+      {
+          "id": 2,
+          "sku": "1492",
+          "title": "Digestion",
+          "description": "A description",
+          "long_description": "",
+          "wholesale_price": "155.00",
+          "retail_price": "155.00",
+          "image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
+          "thumbnail_image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
+          "sequence": 10,
+          "categories": [
+              {
+                  "site_category_id": 10,
+                  "site_category": {
+                      "name": "Mirror Park",
+                      "sequence": 0
+                  }
+              }
+          ]
+      },
+      {
+        "id": 3,
+        "sku": "1492",
+        "title": "Digestion",
+        "description": "A description",
+        "long_description": "",
+        "wholesale_price": "155.00",
+        "retail_price": "155.00",
+        "image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
+        "thumbnail_image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
+        "sequence": 10,
+        "categories": [
+            {
+                "site_category_id": 10,
+                "site_category": {
+                    "name": "Mirror Park",
+                    "sequence": 0
+                }
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "sku": "1492",
+        "title": "Digestion",
+        "description": "A description",
+        "long_description": "",
+        "wholesale_price": "155.00",
+        "retail_price": "155.00",
+        "image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
+        "thumbnail_image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
+        "sequence": 10,
+        "categories": [
+            {
+                "site_category_id": 10,
+                "site_category": {
+                    "name": "Mirror Park",
+                    "sequence": 0
+                }
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "sku": "1492",
+        "title": "Digestion",
+        "description": "A description",
+        "long_description": "",
+        "wholesale_price": "155.00",
+        "retail_price": "155.00",
+        "image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
+        "thumbnail_image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
+        "sequence": 10,
+        "categories": [
+            {
+                "site_category_id": 10,
+                "site_category": {
+                    "name": "Mirror Park",
+                    "sequence": 0
+                }
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "sku": "1492",
+        "title": "Digestion",
+        "description": "A description",
+        "long_description": "",
+        "wholesale_price": "155.00",
+        "retail_price": "155.00",
+        "image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
+        "thumbnail_image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
+        "sequence": 10,
+        "categories": [
+            {
+                "site_category_id": 10,
+                "site_category": {
+                    "name": "Mirror Park",
+                    "sequence": 0
+                }
+            }
+        ]
+    }
+  ],
+
+
+
+
+
+  "profile": {
+    "name": "lllHolidaylll"
+  }
+}
+
