@@ -11,6 +11,27 @@
           "image": "https://cdn.discordapp.com/attachments/938392239997087794/938392326764650526/hookah.png",
           "thumbnail_image": "https://cdn.discordapp.com/attachments/938392239997087794/938392326764650526/hookah.png",
           "sequence": 10,
+
+          "description2": "Save 8% when you buy $300.00 of select items.",
+          "category": "Monthly Specials",
+          "manufacturer": "Giant Co.",
+          "quantity": 10,
+          "qtyaction": "left in stock. Get yours today!",
+          "starcolor": "amber",
+          "raiting": 3.5,
+          "rates": 5000,
+          "currency": "$",
+          "price": "349.99",
+          "cart": 10,
+          "carticon1": "mdi-cart-arrow-up",
+          "carticon2": "mdi-cart-arrow-down",
+          "carticon3": "",
+          "date": "",
+          "elevation": 0,
+          "reviews": [
+            "phil Collins"
+          ],
+
           "categories": [
               {
                   "house_category_id": 10,
