@@ -2,12 +2,12 @@
   "houses": [
       {
           "id": 1,
-          "sku": "1776",
-          "title": "Freedome",
-          "description": "A great home close to the beach and flood surges. So close you will have a front row seat to all the wonder nature has to offer.",
-          "long_description": "",
+          "sku": "HOOKAH",
+          "title": "Hookah Palace",
+          "description": "Welcome to The Hookah Palace, a one-of-a-kind sanctuary steeped in history, nestled in the heart of downtown Los Santos.",
+          "long_description": "Welcome to The Hookah Palace, a one-of-a-kind sanctuary steeped in history, nestled in the heart of downtown Los Santos. Opened in 1926 as a female-only hostel, it offered women the rare freedom to live unrestrained lives. Ninety-plus years later, the hotel continues as the city’s proud hub for creativity. The legendary hotel is now a distinct gem. Home to 24/7 style dining, semi-clean rooms, genuine service, unique event space, and buzzed-about illicit activities only steps away.",
           "wholesale_price": "$100,000.00",
-          "retail_price": "155.00",
+          "retail_price": "FREE*",
           "image": "https://cdn.discordapp.com/attachments/938392239997087794/938392326764650526/hookah.png",
           "thumbnail_image": "https://cdn.discordapp.com/attachments/938392239997087794/938392326764650526/hookah.png",
           "sequence": 10,
@@ -15,7 +15,7 @@
               {
                   "house_category_id": 10,
                   "house_category": {
-                      "name": "Beach",
+                      "name": "Hookah Palace",
                       "sequence": 0
                   }
               }
