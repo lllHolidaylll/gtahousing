@@ -13,8 +13,8 @@
           "sequence": 10,
           "categories": [
               {
-                  "site_category_id": 10,
-                  "site_category": {
+                  "house_category_id": 10,
+                  "house_category": {
                       "name": "Beach",
                       "sequence": 0
                   }
@@ -34,8 +34,8 @@
           "sequence": 10,
           "categories": [
               {
-                  "site_category_id": 10,
-                  "site_category": {
+                  "house_category_id": 10,
+                  "house_category": {
                       "name": "Mirror Park",
                       "sequence": 0
                   }
@@ -55,8 +55,8 @@
         "sequence": 10,
         "categories": [
             {
-                "site_category_id": 10,
-                "site_category": {
+                "house_category_id": 10,
+                "house_category": {
                     "name": "Mirror Park",
                     "sequence": 0
                 }
@@ -76,8 +76,8 @@
         "sequence": 10,
         "categories": [
             {
-                "site_category_id": 10,
-                "site_category": {
+                "house_category_id": 10,
+                "house_category": {
                     "name": "Mirror Park",
                     "sequence": 0
                 }
@@ -97,8 +97,8 @@
         "sequence": 10,
         "categories": [
             {
-                "site_category_id": 10,
-                "site_category": {
+                "house_category_id": 10,
+                "house_category": {
                     "name": "Mirror Park",
                     "sequence": 0
                 }
@@ -118,8 +118,8 @@
         "sequence": 10,
         "categories": [
             {
-                "site_category_id": 10,
-                "site_category": {
+                "house_category_id": 10,
+                "house_category": {
                     "name": "Mirror Park",
                     "sequence": 0
                 }
@@ -139,8 +139,8 @@
       "sequence": 10,
       "categories": [
           {
-              "site_category_id": 10,
-              "site_category": {
+              "house_category_id": 10,
+              "house_category": {
                   "name": "Mirror Park",
                   "sequence": 0
               }
@@ -160,8 +160,8 @@
       "sequence": 10,
       "categories": [
           {
-              "site_category_id": 10,
-              "site_category": {
+              "house_category_id": 10,
+              "house_category": {
                   "name": "Mirror Park",
                   "sequence": 0
               }
