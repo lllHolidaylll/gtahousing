@@ -1,56 +1,30 @@
 {
     "houses": [{
             "id": 1,
-            "title": "Cute Squares #68",
-            "symbol": "CS",
-            "description": "Cutest squares on Solana Network!!",
-            "seller_fee_basis_points": 500,
-            "image": "images.0.png",
-            "external_url": "YOUR WEBPAGE",
-            "attributes": [{
-                    "trait_type": "Background",
-                    "value": "Orange"
-                },
-                {
-                    "trait_type": "Border Color",
-                    "value": "Cyan Border"
-                },
-                {
-                    "trait_type": "Border Dots",
-                    "value": "Dark Purple Dots"
-                },
-                {
-                    "trait_type": "Example Text",
-                    "value": "Example 6"
-                },
-                {
-                    "trait_type": "Simple Draw",
-                    "value": "Swan"
-                },
-                {
-                    "trait_type": "Watermark",
-                    "value": "Down Middle"
-                },
-                {
-                    "trait_type": "Border Mark",
-                    "value": "1 Both Sides"
-                }
-            ],
-            "collection": {
-                "name": "Solana Cute Squares",
-                "family": "Solseum NFT Generator"
-            },
-            "properties": {
-                "files": [{
-                    "uri": "9.png",
-                    "type": "image/png"
-                }],
-                "category": "image",
-                "creators": [{
-                    "address": "2QvVjytnfYyFJUnVC9xGu3ejjVTNDzTUjfvodrn6NVcn",
-                    "share": 100
-                }]
-            }
+            "sku": "TEMPLARHOTEL",
+            "title": "Templar Hotel",
+            "description": "A description",
+            "long_description": "",
+            "wholesale_price": "155.00",
+            "retail_price": "155.00",
+            "image": "https://cdn.discordapp.com/attachments/938392239997087794/939068472082706462/templarbuild.png",
+            "thumbnail_image": "https://cdn.discordapp.com/attachments/938392239997087794/939065721898532864/templar.png",
+            "type": "One Bedroom",
+            "rooms": 1,
+            "bathroom": "3/4",
+            "category": "Free Housing",
+            "quantity": 10,
+            "starcolor": "amber",
+            "raiting": 3.5,
+            "rates": 4215,
+            "currency": "$",
+            "price": "0.00",
+            "urlpage": "http://localhost:3001/house/2",
+            "date": "",
+            "elevation": 0,
+            "reviews": [
+                "phil Collins"
+            ]
         },
         {
             "id": 2,
