@@ -1,193 +1,253 @@
 {
-  "houses": [
-      {
-          "id": 1,
-          "sku": "HOOKAH",
-          "title": "Hookah Palace",
-          "description": "The Hookah Palace, a one-of-a-kind sanctuary steeped in history, nestled in the heart of downtown Los Santos. Special Rental Agreement*",
-          "long_description": "Welcome to The Hookah Palace, a one-of-a-kind sanctuary steeped in history, nestled in the heart of downtown Los Santos. Opened in 1926 as a female-only hostel, it offered women the rare freedom to live unrestrained lives. Ninety-plus years later, the hotel continues as the city’s proud hub for creativity. The legendary hotel is now a distinct gem. Home to 24/7 style dining, semi-clean rooms, genuine service, unique event space, and buzzed-about illicit activities only steps away.",
-          "image": "https://cdn.discordapp.com/attachments/938392239997087794/938392326764650526/hookah.png",
-          "thumbnail_image": "https://cdn.discordapp.com/attachments/938392239997087794/938392326764650526/hookah.png",
-          "type": "Studio",
-          "occupants": 1,
-          "category": "Free Housing",
-          "quantity": 10,
-          "starcolor": "amber",
-          "raiting": 2.5,
-          "rates": 5000,
-          "currency": "$",
-          "price": "0.00",
-          "urlpage": "http://localhost:3001/house/1",
-          "date": "",
-          "elevation": 0,
-          "reviews": [
-            "phil Collins"
-          ]
-      },
-      {
-          "id": 2,
-          "sku": "1492",
-          "title": "Digestion",
-          "description": "A description",
-          "long_description": "",
-          "wholesale_price": "155.00",
-          "retail_price": "155.00",
-          "image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
-          "thumbnail_image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
-          "urlpage": "http://localhost:3001/house/2",
-          
-          
-          
-          
-          
-          
-          
-          
-          "sequence": 10,
-          "categories": [
-              {
-                  "house_category_id": 10,
-                  "house_category": {
-                      "name": "Mirror Park",
-                      "sequence": 0
-                  }
-              }
-          ]
-      },
-      {
-        "id": 3,
-        "sku": "1492",
-        "title": "Digestion",
-        "description": "A description",
-        "long_description": "",
-        "wholesale_price": "155.00",
-        "retail_price": "155.00",
-        "image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
-        "thumbnail_image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
-        "sequence": 10,
-        "categories": [
-            {
-                "house_category_id": 10,
-                "house_category": {
-                    "name": "Mirror Park",
-                    "sequence": 0
+    "houses": [{
+            "id": 1,
+            "title": "Cute Squares #68",
+            "symbol": "CS",
+            "description": "Cutest squares on Solana Network!!",
+            "seller_fee_basis_points": 500,
+            "image": "images.0.png",
+            "external_url": "YOUR WEBPAGE",
+            "attributes": [{
+                    "trait_type": "Background",
+                    "value": "Orange"
+                },
+                {
+                    "trait_type": "Border Color",
+                    "value": "Cyan Border"
+                },
+                {
+                    "trait_type": "Border Dots",
+                    "value": "Dark Purple Dots"
+                },
+                {
+                    "trait_type": "Example Text",
+                    "value": "Example 6"
+                },
+                {
+                    "trait_type": "Simple Draw",
+                    "value": "Swan"
+                },
+                {
+                    "trait_type": "Watermark",
+                    "value": "Down Middle"
+                },
+                {
+                    "trait_type": "Border Mark",
+                    "value": "1 Both Sides"
                 }
+            ],
+            "collection": {
+                "name": "Solana Cute Squares",
+                "family": "Solseum NFT Generator"
+            },
+            "properties": {
+                "files": [{
+                    "uri": "9.png",
+                    "type": "image/png"
+                }],
+                "category": "image",
+                "creators": [{
+                    "address": "2QvVjytnfYyFJUnVC9xGu3ejjVTNDzTUjfvodrn6NVcn",
+                    "share": 100
+                }]
             }
-        ]
-    },
-    {
-        "id": 4,
-        "sku": "1492",
-        "title": "Digestion",
-        "description": "A description",
-        "long_description": "",
-        "wholesale_price": "155.00",
-        "retail_price": "155.00",
-        "image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
-        "thumbnail_image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
-        "sequence": 10,
-        "categories": [
-            {
-                "house_category_id": 10,
-                "house_category": {
-                    "name": "Mirror Park",
-                    "sequence": 0
-                }
-            }
-        ]
-    },
-    {
-        "id": 5,
-        "sku": "1492",
-        "title": "Digestion",
-        "description": "A description",
-        "long_description": "",
-        "wholesale_price": "155.00",
-        "retail_price": "155.00",
-        "image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
-        "thumbnail_image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
-        "sequence": 10,
-        "categories": [
-            {
-                "house_category_id": 10,
-                "house_category": {
-                    "name": "Mirror Park",
-                    "sequence": 0
-                }
-            }
-        ]
-    },
-    {
-        "id": 6,
-        "sku": "1492",
-        "title": "Digestion",
-        "description": "A description",
-        "long_description": "",
-        "wholesale_price": "155.00",
-        "retail_price": "155.00",
-        "image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
-        "thumbnail_image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
-        "sequence": 10,
-        "categories": [
-            {
-                "house_category_id": 10,
-                "house_category": {
-                    "name": "Mirror Park",
-                    "sequence": 0
-                }
-            }
-        ]
-    },
-    {
-      "id": 7,
-      "sku": "1492",
-      "title": "Digestion",
-      "description": "A description",
-      "long_description": "",
-      "wholesale_price": "155.00",
-      "retail_price": "155.00",
-      "image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
-      "thumbnail_image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
-      "sequence": 10,
-      "categories": [
-          {
-              "house_category_id": 10,
-              "house_category": {
-                  "name": "Mirror Park",
-                  "sequence": 0
-              }
-          }
-      ]
-  },
-  {
-      "id": 8,
-      "sku": "1492",
-      "title": "Digestion",
-      "description": "A description",
-      "long_description": "",
-      "wholesale_price": "155.00",
-      "retail_price": "155.00",
-      "image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
-      "thumbnail_image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
-      "sequence": 10,
-      "categories": [
-          {
-              "house_category_id": 10,
-              "house_category": {
-                  "name": "Mirror Park",
-                  "sequence": 0
-              }
-          }
-      ]
-  }
-  ],
+        },
+        {
+            "id": 2,
+            "sku": "TEMPLARHOTEL",
+            "title": "Templar Hotel",
+            "description": "A description",
+            "long_description": "",
+            "wholesale_price": "155.00",
+            "retail_price": "155.00",
+            "image": "https://cdn.discordapp.com/attachments/938392239997087794/939068472082706462/templarbuild.png",
+            "thumbnail_image": "https://cdn.discordapp.com/attachments/938392239997087794/939065721898532864/templar.png",
+            "type": "One Bedroom",
+            "rooms": 1,
+            "bathroom": "3/4",
+            "category": "Free Housing",
+            "quantity": 10,
+            "starcolor": "amber",
+            "raiting": 3.5,
+            "rates": 4215,
+            "currency": "$",
+            "price": "0.00",
+            "urlpage": "http://localhost:3001/house/2",
+            "date": "",
+            "elevation": 0,
+            "reviews": [
+                "phil Collins"
+            ]
+        },
+        {
+            "id": 3,
+            "sku": "MAGELLANAVE",
+            "title": "Magellan Ave",
+            "description": "A description",
+            "long_description": "",
+            "wholesale_price": "155.00",
+            "retail_price": "155.00",
+            "image": "https://cdn.discordapp.com/attachments/938392239997087794/939070572393009152/magellanbuild.png",
+            "thumbnail_image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
+            "type": "One Bedroom",
+            "rooms": 1,
+            "bathroom": "3/4",
+            "category": "Free Housing",
+            "quantity": 10,
+            "starcolor": "amber",
+            "raiting": 4.0,
+            "rates": 2754,
+            "currency": "$",
+            "price": "0.00",
+            "urlpage": "http://localhost:3001/house/2",
+            "date": "",
+            "elevation": 0,
+            "reviews": [
+                "phil Collins"
+            ]
+        },
+        {
+            "id": 4,
+            "sku": "VINEWOODPLAZA",
+            "title": "Vinewood Plaza",
+            "description": "A description",
+            "long_description": "",
+            "wholesale_price": "155.00",
+            "retail_price": "155.00",
+            "image": "https://cdn.discordapp.com/attachments/938392239997087794/939071725902102568/vinewoodplazabuild.png",
+            "thumbnail_image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
+            "type": "One Bedroom",
+            "rooms": 1,
+            "bathroom": "3/4",
+            "category": "Free Housing",
+            "quantity": 10,
+            "starcolor": "amber",
+            "raiting": 3.25,
+            "rates": 3421,
+            "currency": "$",
+            "price": "0.00",
+            "urlpage": "http://localhost:3001/house/2",
+            "date": "",
+            "elevation": 0,
+            "reviews": [
+                "phil Collins"
+            ]
+        },
+        {
+            "id": 5,
+            "sku": "DREAMTOWER",
+            "title": "Dream Tower",
+            "description": "A description",
+            "long_description": "",
+            "wholesale_price": "155.00",
+            "retail_price": "155.00",
+            "image": "https://cdn.discordapp.com/attachments/938392239997087794/939073693697597450/dreamtowerbuils.png",
+            "thumbnail_image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
+            "type": "One Bedroom",
+            "rooms": 1,
+            "bathroom": "3/4",
+            "category": "Free Housing",
+            "quantity": 10,
+            "starcolor": "amber",
+            "raiting": 3.75,
+            "rates": 3892,
+            "currency": "$",
+            "price": "0.00",
+            "urlpage": "http://localhost:3001/house/2",
+            "date": "",
+            "elevation": 0,
+            "reviews": [
+                "phil Collins"
+            ]
+        },
+        {
+            "id": 6,
+            "sku": "EMPTY",
+            "title": "Listing Coming",
+            "description": "Listing coming soon.",
+            "long_description": "",
+            "wholesale_price": "155.00",
+            "retail_price": "155.00",
+            "image": "https://cdn.discordapp.com/attachments/938392239997087794/939092611313074186/comingsoon.png",
+            "thumbnail_image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
+            "type": "One Bedroom",
+            "rooms": 0,
+            "bathroom": "0",
+            "category": "Free Housing",
+            "quantity": 10,
+            "starcolor": "amber",
+            "raiting": 0.0,
+            "rates": 0,
+            "currency": "$",
+            "price": "0.00",
+            "urlpage": "http://localhost:3001/house/2",
+            "date": "",
+            "elevation": 0,
+            "reviews": [
+                "phil Collins"
+            ]
+        },
+        {
+            "id": 7,
+            "sku": "EMPTY",
+            "title": "Listing Coming",
+            "description": "Listing coming soon.",
+            "long_description": "",
+            "wholesale_price": "155.00",
+            "retail_price": "155.00",
+            "image": "https://cdn.discordapp.com/attachments/938392239997087794/939092611313074186/comingsoon.png",
+            "thumbnail_image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
+            "type": "One Bedroom",
+            "rooms": 0,
+            "bathroom": "0",
+            "category": "Free Housing",
+            "quantity": 10,
+            "starcolor": "amber",
+            "raiting": 0.0,
+            "rates": 0,
+            "currency": "$",
+            "price": "0.00",
+            "urlpage": "http://localhost:3001/house/2",
+            "date": "",
+            "elevation": 0,
+            "reviews": [
+                "phil Collins"
+            ]
+        },
+        {
+            "id": 8,
+            "sku": "EMPTY",
+            "title": "Listing Coming",
+            "description": "Listing coming soon.",
+            "long_description": "",
+            "wholesale_price": "155.00",
+            "retail_price": "155.00",
+            "image": "https://cdn.discordapp.com/attachments/938392239997087794/939092611313074186/comingsoon.png",
+            "thumbnail_image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
+            "type": "One Bedroom",
+            "rooms": 0,
+            "bathroom": "0",
+            "category": "Free Housing",
+            "quantity": 10,
+            "starcolor": "amber",
+            "raiting": 0.0,
+            "rates": 0,
+            "currency": "$",
+            "price": "0.00",
+            "urlpage": "http://localhost:3001/house/2",
+            "date": "",
+            "elevation": 0,
+            "reviews": [
+                "phil Collins"
+            ]
+        }
+    ],
 
 
 
 
 
-  "profile": {
-    "name": "lllHolidaylll"
-  }
+    "profile": {
+        "name": "lllHolidaylll"
+    }
 }
-
