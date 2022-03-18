@@ -214,116 +214,12 @@
             "reviews": [
                 "phil Collins"
             ]
-        },
-        {
-            "id": 9,
-            "sku": "EMPTY",
-            "title": "Listing Coming",
-            "description": "Listing coming soon.",
-            "long_description": "",
-            "wholesale_price": "155.00",
-            "retail_price": "155.00",
-            "image": "https://cdn.discordapp.com/attachments/938392239997087794/939092611313074186/comingsoon.png",
-            "thumbnail_image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
-            "type": "One Bedroom",
-            "rooms": 0,
-            "bathroom": "0",
-            "category": "Free Housing",
-            "quantity": 10,
-            "starcolor": "amber",
-            "raiting": 0.0,
-            "rates": 0,
-            "currency": "$",
-            "price": "0.00",
-            "urlpage": "http://localhost:3001/house/2",
-            "date": "",
-            "elevation": 0,
-            "reviews": [
-                "phil Collins"
-            ]
-        },
-        {
-            "id": 10,
-            "sku": "EMPTY",
-            "title": "Listing Coming",
-            "description": "Listing coming soon.",
-            "long_description": "",
-            "wholesale_price": "155.00",
-            "retail_price": "155.00",
-            "image": "https://cdn.discordapp.com/attachments/938392239997087794/939092611313074186/comingsoon.png",
-            "thumbnail_image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
-            "type": "One Bedroom",
-            "rooms": 0,
-            "bathroom": "0",
-            "category": "Free Housing",
-            "quantity": 10,
-            "starcolor": "amber",
-            "raiting": 0.0,
-            "rates": 0,
-            "currency": "$",
-            "price": "0.00",
-            "urlpage": "http://localhost:3001/house/2",
-            "date": "",
-            "elevation": 0,
-            "reviews": [
-                "phil Collins"
-            ]
-        },
-        {
-            "id": 11,
-            "sku": "EMPTY",
-            "title": "Listing Coming",
-            "description": "Listing coming soon.",
-            "long_description": "",
-            "wholesale_price": "155.00",
-            "retail_price": "155.00",
-            "image": "https://cdn.discordapp.com/attachments/938392239997087794/939092611313074186/comingsoon.png",
-            "thumbnail_image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
-            "type": "One Bedroom",
-            "rooms": 0,
-            "bathroom": "0",
-            "category": "Free Housing",
-            "quantity": 11,
-            "starcolor": "amber",
-            "raiting": 0.0,
-            "rates": 0,
-            "currency": "$",
-            "price": "0.00",
-            "urlpage": "http://localhost:3001/house/2",
-            "date": "",
-            "elevation": 0,
-            "reviews": [
-                "phil Collins"
-            ]
-        },
-        {
-            "id": 12,
-            "sku": "EMPTY",
-            "title": "Listing Coming",
-            "description": "Listing coming soon.",
-            "long_description": "",
-            "wholesale_price": "155.00",
-            "retail_price": "155.00",
-            "image": "https://cdn.discordapp.com/attachments/938392239997087794/939092611313074186/comingsoon.png",
-            "thumbnail_image": "https://cdn.discordapp.com/attachments/853172643830300692/881420412477640774/duke.png",
-            "type": "One Bedroom",
-            "rooms": 0,
-            "bathroom": "0",
-            "category": "Free Housing",
-            "quantity": 10,
-            "starcolor": "amber",
-            "raiting": 0.0,
-            "rates": 0,
-            "currency": "$",
-            "price": "0.00",
-            "urlpage": "http://localhost:3001/house/2",
-            "date": "",
-            "elevation": 0,
-            "reviews": [
-                "phil Collins"
-            ]
         }
     ],
+
+
+
+
 
     "profile": {
         "name": "lllHolidaylll"
